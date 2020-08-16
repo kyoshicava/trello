@@ -4,7 +4,7 @@ Suíte de teste: Validar funcionalidade de login
 Casos de Teste:
 	→ Validar quantidade de caracteres permitido nos campos inserir e-mail e senha
 	→ Validar comportamento do sistema ao tentar realizar login sem informar campos inserir e-mail e senha
-	→ Validar mensagens de retorno ao tentar logar com: e-mail inválido e senha incorreta, e-mail inválido e senha correta, e-mail válido e senha incorreta
+	→ Validar mensagens de retorno ao tentar logar com: e-mail inválido e senha incorreta, e-mail inválido e senha correta, e-mail válido e senha 
 	→ Validar realização de login com sucesso
 	
 Suíte de teste: Validar funcionalidade de recuperação de senha
